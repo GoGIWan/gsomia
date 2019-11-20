@@ -1,0 +1,2 @@
+include ':app', ':folding-cell', ':folding-cell-simple-example', ':folding-cell-listview-example', 'folding', 'list', 'simple', ':build.gradle(folding)', 'listView'
+rootProject.name='1818'

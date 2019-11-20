@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginStart="20dp"
+        android:src="@drawable/head"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-19dp"
+        android:layout_marginStart="8dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/a_warning_neck"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-30dp"
+        android:layout_marginStart="-5dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/a_neck1"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-20dp"
+        android:layout_marginStart="-52dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/dagerous_arm"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-83dp"
+        android:layout_marginStart="9dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/b_recovery_chase"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-55dp"
+        android:layout_marginStart="66dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/dangerous_left_arm"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-45dp"
+        android:layout_marginStart="-24dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/healing_side"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-112dp"
+        android:layout_marginEnd="-17dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/a_warning_adobeman"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-135dp"
+        android:layout_marginStart="45dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/healing_left_side"/>
+
+
+
+
+
+</LinearLayout>
